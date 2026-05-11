@@ -30,5 +30,6 @@ streamlit run app.py
 
 ## Project Status
 
-Successfully deployed as an interactive ML web application.
+Successfully deployed as an interactive ML web application on 
+bnprice.streamlit.app
 
